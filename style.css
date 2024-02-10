@@ -29,15 +29,6 @@ h1 {
  }
  a{
     padding: 15px;
- }
-.contactp{
-    color: #000000;
-    text-align: left;
-}
-.contacte{
-    color: #000000;
-    text-align: right;
-}
 
 .image{
     display: block;
@@ -61,7 +52,7 @@ body{
 
   .contact1 {
     display: inline;
-    padding-right: 234px
+    padding-right: 230px
  }
  .contact2 {
     display: inline;
